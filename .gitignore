@@ -1,0 +1,17 @@
+.vscode
+*.log
+.*.conf.json
+.extId
+.firebaseConfig.json
+docs/
+**/reports/
+coverage
+node_modules
+yarn-error.log
+.DS_Store
+extensions/
+.eslintcache
+.idea
+.testenv
+.env
+dist
